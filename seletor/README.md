@@ -1,0 +1,2 @@
+# seletor
+seletor de comandos
